@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# EPUB File Organizer - Creates author folders and moves files
-# Usage: ./organize_epub.sh [directory_path]
 
 # Set the directory to process (default to current directory)
 EPUB_DIR="${1:-.}"
